@@ -1,0 +1,3 @@
+[submodule "libcpp"]
+	path = libcpp
+	url = git@github.com:patrick-forks/libcpp.git
